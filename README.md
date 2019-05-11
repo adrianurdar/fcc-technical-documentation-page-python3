@@ -1,1 +1,1 @@
-# fcc-technical-documentation-page-python3
+# Technical Documentation Page for FreeCodeCamp Responsive Web Design Project
